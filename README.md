@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++, Data Structures and Algorithms, Object Oriented Programming**
 
-- 📫 How to reach me **satyams0478@gmail.com**
+- 📫 How to reach me **msatyam737@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
