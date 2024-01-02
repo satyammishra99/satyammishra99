@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 My backend expertise in **NodeJs**
 
 - 💬 Ask me about **C++, Data Structures and Algorithms, Object Oriented Programming**
 
